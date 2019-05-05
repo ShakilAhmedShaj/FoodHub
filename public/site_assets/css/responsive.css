@@ -1,0 +1,224 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+#banner p{background:rgba(0,0,0,0.6);color:#fff;padding:10px 20px;width:90%;margin:0 auto;font-size:18px;line-height:28px;text-align:center;position:absolute;bottom:0;z-index:9999;left:5%}
+.high_light h3{font-size:36px;}
+.high_light a{padding:15px 18px;}
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+#subheader{height:351px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+.nav-post .nav-text{float:right;width:64%}
+.parthner{text-align:center}
+#list_shortcuts img {height: auto;width:134px;left: 0;position: absolute;top: 0;}
+#list_shortcuts li {border: 5px solid #fff;box-shadow: 0 0 3px rgba(4, 4, 4, 0.3);float: left;height: 130px;margin:15px 10px;overflow: hidden;position: relative;width: 130px;border-radius:20%;}
+#subheader{height:288px;}
+.parthner li{margin-bottom:30px;width:32.6%}
+.blog-side-bar ul.wid-in li:nth-child(2){width:55%}
+.restaurant_list_detail .side-bar .text-post{width:62%}
+.sidebar_time_list{padding:10px 8px}
+.animenu_nav > li{padding:30px 14px;}
+}
+@media (min-width: 481px) and (max-width: 767px) {
+.properties li{float:left;margin-bottom:30px;transition:all .4s ease-in-out 0;width:50%}
+.services li{float:left;margin-bottom:30px;width:50%}
+.team{float:left;overflow:hidden;position:relative;width:50%}
+#sub_content h1{font-size:34px;}
+.flex-active-slide img{ height:320px;}
+#banner #sub_content h1 {color: #fff;font-size:38px;font-weight: 500;margin: 0 0 10px;text-transform: none;}
+#sub_content #thumb {background-color: #fff;border-radius: 100px;height: 130px;margin:10px auto 20px auto;width: 130px;padding:5px;left:0;right:0}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+footer .text-post{float:right;width:60%}
+.sticky{position:relative!important}
+.home-1 .finder{top:10%}
+.home-1 .finder .container{width:100%}
+#banner{height:auto}
+.flex-direction-nav a{top:35%}
+.bnr-form{margin-top:40px}
+#banner .text-sec{margin-top:30%}
+.services .sec-in .go-right{top:26px}
+.offer-services .nav-tabs li a{line-height:36px}
+.solution h3{margin-top:50px}
+.counters{text-align:center}
+#list_shortcuts img {height: auto;width:110px;left: 0;position: absolute;top: 0;}
+#list_shortcuts li {border: 5px solid #fff;box-shadow: 0 0 3px rgba(4, 4, 4, 0.3);float: left;height: 100px;margin:15px 10px;overflow: hidden;position: relative;width: 100px;border-radius:20%;}
+.counters i{border:medium none;margin-bottom:5px;text-align:center;width:100%}
+#banner .flex-direction-nav .flex-prev{left:1%}
+#banner .flex-direction-nav .flex-next{right:1%}
+#subheader{height:216px;}
+#sub_content h1{font-size:34px !important;}
+.strip_list{float:none;}
+header nav{float:none}
+.animenu ul {float: left;left: 0;margin: 0 auto;right: 0;text-align: center;width: 100%;}
+.animenu ul li{text-align:left}
+.animenu ul li ul li{text-align:left}
+ul.animenu_nav_child{text-align:left;width:220px;}
+header .logo {border-bottom: 1px solid #ccc;float: left;margin: 15px 0 0;padding-bottom: 15px;text-align: center;width: 100%;}
+.restaurant_list_detail .thumb_strip{border:1px solid #d3d3d3;border-radius: 20%;height: 125px;left: 0;padding: 5px;position: relative;top: 0;width: 125px;margin:0 auto 10px auto}
+.strip_list .go_to{display: table;height: auto;margin-top: 6%;text-align: center;width: 100%;}
+.restaurant_list_detail .desc {min-height: 125px;padding-left:0px;padding-right:0px;position: relative;}
+.restaurant_list_detail .desc h3 {margin-top: 6px;text-align:center;text-transform: none;}
+.restaurant_list_detail .desc .type{text-align:center;}
+.restaurant_list_detail .desc .location{text-align:center}
+.restaurant_list_detail .desc .rating{text-align:center}
+}
+@media (max-width: 767px) {
+.tittle p{width:100%}
+#custom-search-input{width:100%;}
+.strip_list{float:none;}
+.sticky{position:relative!important}
+.absu{display:none!important}
+.services li{margin-bottom:30px}
+.call-us .overlay{text-align:center}
+.call-us .no-padding{padding:0 15px!important}
+header .logo{margin:10px 0;text-align:center;width:100%}
+header .header-contact{margin-bottom:20px;margin-top:20px;width:100%}
+.sub-nav-co{margin:0;position:absolute;top:15px}
+.blog_item_lt li{margin-bottom:20px;padding:0}
+#blog_item{padding:30px 0 0}
+.bnr-form{margin-top:10%}
+.rstl_list_btn{text-align:center;margin-top:10px;}
+.animenu_nav > li{padding:0px;}
+footer .col-sm-3{margin-bottom:30px}
+#banner .text-sec{margin-top:20%}
+.flex-direction-nav{bottom:40px;margin:0 auto;top:auto}
+.flex-direction-nav a{margin:0 auto}
+#banner .flex-direction-nav .flex-prev{left:0}
+#banner .flex-direction-nav .flex-next{right:0}
+.flex-direction-nav{position:absolute;top:40%;width:100%}
+header nav li.active{background:hsla(0,0%,0%,0) none repeat scroll 0 0!important}
+nav li:hover{background:hsla(0,0%,0%,0) none repeat scroll 0 0!important}
+header nav li{padding-top:0}
+.ownmenu .indicator{display:block}
+header nav li a{border:medium none}
+.offer-services .nav-tabs{margin-bottom:30px}
+.blog ul li{margin-bottom:30px}
+.blog ul li img{width:100%}
+#subheader{height:300px;}
+#team .team{margin-bottom:30px}
+.panel-group{margin-bottom:30px}
+.sub-banner{background-size:cover}
+.flex-direction-nav{display:none}
+header nav{width:100%;top:-30px;}
+header::before{width:100%}
+.ownmenu > li.showhide{margin-top:0}
+header nav .ownmenu{min-height:inherit}
+header nav{min-height:inherit}
+.ownmenu > li.showhide span.icon{float:none;line-height:46px;margin:0}
+.ownmenu > li.showhide{text-align:center}
+header nav li{margin-top:0}
+footer .text-post{width:86%;}
+.ownmenu > li > .megamenu.full-width{padding-top:0}
+.ownmenu > li > .megamenu{padding-left:25px;top:20px}
+.megamenu .row{margin-left:15px}
+.find-sec li{float:left;width:50%}
+.finder h1{font-size:30px}
+.find-sec{margin-top:20px}
+.home-1 .finder{top:10%}
+.home-1 li.col-sm-6{width:100%}
+.mobile-app a.btn{margin-bottom:30px;margin-top:20px}
+#testimonials .testi{width:100%}
+footer li{margin:15px 0}
+.blog{padding:20px 0}
+#testimonials{padding:20px 0}
+.services{padding:20px 0}
+#team{padding:20px 0}
+.restaurant_list_detail .side-bar .text-post{width:80%;}
+header .logo{display:inline-block;margin:10px 0 0;padding-bottom:10px;text-align:left;width:100%}
+#banner p{display:none}
+.desc{padding-left:140px;padding-right:0px;}
+.thumb_strip{left:0;}
+.desc .rating{text-align:left}
+.desc .location{text-align:left}
+.desc .type{text-align:left}
+.strip_list .desc h3{text-align:left}
+.restaurant_list_detail .thumb_strip{border:1px solid #d3d3d3;border-radius: 20%;height: 125px;left: 0;padding: 5px;position: relative;top: 0;width: 125px;margin:0 auto 10px auto}
+.strip_list .go_to{display: table;height: auto;margin-top: 6%;text-align: center;width: 100%;}
+.restaurant_list_detail .desc {min-height: 125px;padding-left:0px;padding-right:0px;position: relative;padding-top:0px;}
+.restaurant_list_detail .desc h3 {margin-top: 6px;text-align:center;text-transform: none;}
+.restaurant_list_detail .desc .type{text-align:center;}
+.restaurant_list_detail .desc .location{text-align:center}
+.restaurant_list_detail .desc .rating{text-align:center}
+#sub_content #thumb{text-align:center;margin:0 auto 15px auto;display:block;float:none}
+#sub_content h1{text-align:center;font-size:26px;}
+.sub_cont_rt{text-align:center}
+.sub_cont_lt{text-align:center;font-size:14px;}
+.sub-banner .rating{text-align:center}
+}
+@media (max-width: 639px) {
+.top-bar{display:none}
+.sub-banner h1{font-size:32px;color:#fff;font-weight:500;margin:0;text-align:left;text-transform:none}
+}
+@media (max-width: 640px) {
+header .logo{display:inline-block;margin:10px 0;text-align:left;width:100%}
+.sub-banner{text-align:center}
+.sub-nav{display:inline-block;float:none;width:100%}
+header .search{margin-bottom:20px;margin-top:10px;width:100%}
+.nav-post .nav-text{width:75%}
+.blog-side-bar ul.wid-in li:nth-child(2){width:76%}
+#banner{height:320px;}
+#subheader{height:300px;}
+#sub_content h1{font-size:30px;}
+}
+@media (max-width: 540px) {
+.parthner{padding-top:0}
+.blog .b-details a{bottom:0;left:0;position:relative}
+.parthner .owl-nav{top:-122px;width:50px}
+.blog .b-details span{margin-top:0}
+footer .subcribe input{width:100%}
+footer .subcribe .btn{margin-top:10px;width:100%}
+.pop-project .carousel-indicators li{height:auto;margin-top:5px;width:23.3333%}
+header .header-contact li{border:medium none;padding-bottom:10px;width:100%}
+header .header-contact li:nth-child(1){border-bottom:1px dashed hsl(0,0%,80%);border-right:medium none;margin-bottom:10px}
+.services li.padding-r-80{padding-right:0!important}
+.items-details .carousel-indicators li{width:30.3333%}
+.home-3 .bnr-property{width:94%;margin-top:80px;left:15px;margin-left:0;right:15px}
+.home-3 .bnr-property .btn{padding:8px 0;text-align:center;width:45%}
+}
+@media (max-width: 440px) {
+.parthner{text-align:center}
+.parthner li{margin-bottom:30px;width:100%}
+.ownmenu .megamenu img{margin-top:10px}
+.find-sec li{float:none;width:100%}
+header .logo img{display:inline-block;margin:10px 0 0;padding-bottom:0px;text-align:center;width:80%}
+}
+@media (max-width: 480px) {
+.properties li{float:left;margin-bottom:30px;transition:all .4s ease-in-out 0;width:100%}
+.properties li img{width:100%;float:left}
+.img-responsive img{width:100%;float:left}
+.team-over{float:left;overflow:hidden;position:relative;width:100%}
+footer .text-post{float:right;width:72%}
+.flex-active-slide img{ height:320px;}
+#subheader{height:300px;}
+.container-4{width:92%;}
+.restaurant_list_detail .side-bar .text-post{width:72%;}
+.btn.btn-submit {width:60%;}
+#sub_content #thumb{text-align:center;margin:0 auto 15px auto;display:block;float:none}
+#sub_content h1{text-align:center;font-size:26px;}
+.rstl_list_btn{text-align:center;margin-top:10px;}
+.sub_cont_rt{text-align:center}
+.sub_cont_lt{text-align:center;font-size:14px;}
+.sub-banner .rating{text-align:center}
+#banner #sub_content h1 {color: #fff;font-size:30px;font-weight: 500;margin: 0 0 10px;text-transform: none;}
+.main_title h2 {font-size: 30px;font-weight: 300;letter-spacing: -1px;margin-bottom: 0;text-transform:none;}
+.container-4 button.icon{right:11%}
+#list_shortcuts li {width:100%;}
+#list_shortcuts img{width:100%;height:auto}
+}
+@media (max-width: 479px) {
+.desc{padding-left:0px;padding-right:0px;margin:0 auto;padding-top:140px;}
+.thumb_strip{left:0;margin:0 auto}
+.desc .rating{text-align:center;margin:0 auto;margin-top:7px;}
+.desc .location{text-align:center;margin:0 auto;line-height:23px;}
+.desc .type{text-align:center;margin:0 auto}
+.strip_list .desc h3{text-align:center;margin:0 auto}
+#summary_review{padding:20px 15px;}
+header .logo{display:inline-block;margin:10px 0 0;padding-bottom:10px;text-align:left;width:100%}
+.animenu_toggle{margin-top:-23px}
+.animenu_nav-open{margin-top:40px;}
+.strip_list .thumb_strip{text-align:center;margin:0 auto;display:block;left:0;right:0}
+.strip_list .thumb_strip img{text-align:center;margin:0 auto;display:block}
+.container-4 button.icon{right:17%}
+.container-4 input#search{font-size:16px;}
+.modalDialog > div{width: 300px;}
+}
